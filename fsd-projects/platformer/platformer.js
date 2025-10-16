@@ -41,7 +41,9 @@ createPlatform(600, 400, 150, 10);
 createPlatform(900, 500, 150, 10);
 
     // TODO 3 - Create Collectables
-
+createCollectable("max", 250, 600);
+  createCollectable("diamond", 900, 700);
+createCollectable("steve", 900, 400);
 
 
     
